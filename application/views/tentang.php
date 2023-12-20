@@ -99,9 +99,7 @@
             </div>
         </div>
         <div class="about_details" data-aos="fade-up" data-aos-duration="1600">
-            <p>
-               Jadikan pengalaman belajar mu lebih menyenangkan serta memudahkan mu untuk mengakses segala fitur-fiturnya!
-            </p>
+    
         </div>
     </div>
 </section>
