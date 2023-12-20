@@ -41,7 +41,8 @@
                         </div>
                         <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
                             <div class="card-body">
-                                Merciful revaluation burying love ultimate value inexpedient ubermensch. Holiest madness victorious morality hope endless christian madness. Love dead fearful transvaluation marvelous.
+                        Menjadi sumber pengetahuan terpercaya dan pusat informasi pendidikan yang memungkinkan akses untuk semua kalangan, mendorong pertumbuhan intelektual, dan memberdayakan masyarakat.
+
                             </div>
                         </div>
                     </div>
@@ -55,7 +56,13 @@
                         </div>
                         <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
                             <div class="card-body">
-                                Merciful revaluation burying love ultimate value inexpedient ubermensch. Holiest madness victorious morality hope endless christian madness. Love dead fearful transvaluation marvelous.
+                                 Menyediakan akses mudah dan luas terhadap modul pembelajaran berkualitas untuk mendukung belajar mandiri dan pengembangan keterampilan.
+
+                                 Menyediakan informasi terkini mengenai berbagai jenis beasiswa untuk mendukung akses pendidikan yang inklusif dan merata.
+
+                               Menyelenggarakan dan memfasilitasi seminar, lokakarya, dan acara pendidikan guna memperluas wawasan dan meningkatkan keterampilan bagi para pengguna website.
+
+                              Berkomitmen untuk terus mengembangkan koleksi informasi dan sumber daya pendidikan demi memenuhi kebutuhan pengguna dalam memperoleh akses pendidikan yang berkualitas.
                             </div>
                         </div>
                     </div>
@@ -69,8 +76,11 @@
                         </div>
                         <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
                             <div class="card-body">
-                                Merciful revaluation burying love ultimate value inexpedient ubermensch. Holiest madness victorious morality hope endless christian madness. Love dead fearful transvaluation marvelous.
-                            </div>
+                                Memastikan akses pendidikan yang merata dan inklusif dengan menyediakan modul pembelajaran berkualitas untuk semua kalangan.
+
+                               Mendorong pertumbuhan intelektual dan pengembangan keterampilan melalui informasi beasiswa yang komprehensif.
+
+                               Memperluas wawasan dan pengetahuan dengan menyelenggarakan seminar dan acara pendidikan yang bermanfaat.
                         </div>
                     </div>
                     <div class="card">
@@ -83,7 +93,11 @@
                         </div>
                         <div id="collapsefour" class="collapse" aria-labelledby="headingfour" data-parent="#accordionExample">
                             <div class="card-body">
-                                Merciful revaluation burying love ultimate value inexpedient ubermensch. Holiest madness victorious morality hope endless christian madness. Love dead fearful transvaluation marvelous.
+                                Akses yang lebih mudah terhadap modul pembelajaran akan meningkatkan kemampuan belajar mandiri dan pengembangan keterampilan bagi para pengguna website.
+
+                                Informasi beasiswa yang terkini dapat membantu masyarakat untuk meraih kesempatan pendidikan yang sebelumnya mungkin tidak terjangkau.
+
+                               Seminar dan acara pendidikan akan memberikan kesempatan untuk bertemu dengan para ahli dan memperluas jaringan, serta meningkatkan wawasan dan keterampilan yang diperlukan dalam dunia pendidikan dan karier.
                             </div>
                         </div>
                     </div>
