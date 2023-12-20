@@ -27,18 +27,18 @@
                         <i class="lnr lnr-home"></i>
                         <h6>Jl.Purorejo Ngantang
                             Malang, Jawa Timur</h6>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                 
                     </div>
                     <div class="info_item">
                         <i class="lnr lnr-phone-handset"></i>
                         <h6><a href="#">
                                 (62) 8551 8125 9</a></h6>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                     
                     </div>
                     <div class="info_item">
                         <i class="lnr lnr-envelope"></i>
                         <h6><a href="#">verakristina784@gmail.com</a></h6>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        
                     </div>
                 </div>
             </div>
