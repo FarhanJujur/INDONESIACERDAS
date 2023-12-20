@@ -96,8 +96,8 @@
 <section class="courses_area p_40">
     <div class="container">
         <div class="main_title">
-            <h2 data-aos="fade-up" data-aos-duration="1600">Pelajaran Yang Tersedia di Learnify Education</h2>
-            <p data-aos="fade-up" data-aos-duration="1800">Dibawah ini merupakan mata pelajaran yang tersedia di website Learnify Education. Tiap kelas mempunyai materi yang berbeda namun dengan mata pelajaran yang sama. Oleh karena itu nikmati materi dan selamat belajar! Silahkan Login terlebih dahulu untuk melihat pembahasan yang ada didalamnya!</p>
+            <h2 data-aos="fade-up" data-aos-duration="1600">Indonesia Cerdas menyediakan berbagai materi yang membantu siswa</h2>
+            <p data-aos="fade-up" data-aos-duration="1800">Indonesia Cerdas dibuat untuk membantu memudahkan siswa dalam belajar dengan menyediakan berbagai materi yang dapat membantu siswa. Tiap kelas mempunyai materi yang berbeda namun dengan mata pelajaran yang sama. Oleh karena itu nikmati materi dan selamat belajar! Silahkan Login terlebih dahulu untuk melihat pembahasan yang ada didalamnya!</p>
         </div>
         <div class="row courses_inner">
             <div class="col-lg-9">
@@ -124,6 +124,7 @@
                             <img src="<?= base_url('assets/') ?>img/courses/course-2.jpg" alt="">
                             <div class="hover_text">
                                 <a class="cat" href="#">Login</a>
+								
                                 <a href="javaScript:void(0);">
                                     <h4>Kelas IPA </h4>
                                 </a>
@@ -195,8 +196,8 @@
 <section class="impress_area p_120">
     <div class="container">
         <div class="impress_inner text-center">
-            <h2 data-aos="fade-up" data-aos-duration="1800">JADILAH PENGAJAR DAN MENGAJAR DI LEARNIFY EDUCATION</h2>
-            <p data-aos="fade-up" data-aos-duration="2000">Jika anda adalah seorang guru, anda dapat mendaftarkan diri ke admin dan masuk untuk mengajar para siswa di Learnify Education.Dan anda dapat segera mengajar setelah disetujui oleh pihak sekolah.</p>
+            <h2 data-aos="fade-up" data-aos-duration="1800">Let's to be sharing and caring in Indonesia Cerdas </h2>
+            <p data-aos="fade-up" data-aos-duration="2000">Jika kampus anda memiliki program beasiswa dan ingin sharing tentang modul pembelajaran serta pengetahuan lain yang dapat membantu siswa mengembangkan wawasannya.Ayo,segera mendaftarkan diri ke admin dan masuk untuk membagi ilmu kepada para siswa di Indonesia Cerdas !</p>
             <a data-aos="fade-up" data-aos-duration="2200" class="main_btn2" href="<?=base_url('welcome/guru')?>">Login sebagai Kampus</a>
         </div>
     </div>
