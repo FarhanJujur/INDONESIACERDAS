@@ -197,7 +197,7 @@
         <div class="impress_inner text-center">
             <h2 data-aos="fade-up" data-aos-duration="1800">JADILAH PENGAJAR DAN MENGAJAR DI LEARNIFY EDUCATION</h2>
             <p data-aos="fade-up" data-aos-duration="2000">Jika anda adalah seorang guru, anda dapat mendaftarkan diri ke admin dan masuk untuk mengajar para siswa di Learnify Education.Dan anda dapat segera mengajar setelah disetujui oleh pihak sekolah.</p>
-            <a data-aos="fade-up" data-aos-duration="2200" class="main_btn2" href="<?=base_url('welcome/guru')?>">Login sebagai Guru</a>
+            <a data-aos="fade-up" data-aos-duration="2200" class="main_btn2" href="<?=base_url('welcome/guru')?>">Login sebagai Kampus</a>
         </div>
     </div>
 </section>
