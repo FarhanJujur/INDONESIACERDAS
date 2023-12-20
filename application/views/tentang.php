@@ -100,7 +100,7 @@
         </div>
         <div class="about_details" data-aos="fade-up" data-aos-duration="1600">
             <p>
-                Merciful revaluation burying love ultimate value inexpedient ubermensch. Holiest madness victorious morality hope endless christian madness. Love dead fearful transvaluation marvelous. Oneself right ideal abstract endless faith deceptions zarathustra grandeur law ubermensch free. Abstract chaos snare play truth ultimate good self. God overcome sexuality pious abstract good decieve revaluation aversion good. Virtues chaos overcome society holiest truth.
+               Jadikan pengalaman belajar mu lebih menyenangkan serta memudahkan mu untuk mengakses segala fitur-fiturnya!
             </p>
         </div>
     </div>
